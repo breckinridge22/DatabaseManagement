@@ -1,4 +1,4 @@
-TABLE
+
 
 /* DROP TABLE if already exists */
 DROP TABLE IF EXISTS Wildlife;
